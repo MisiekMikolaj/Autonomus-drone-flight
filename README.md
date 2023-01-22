@@ -16,5 +16,4 @@ simple_pid
  matplotlib.pyplot 
  
  in the program we used dj trello drone
- 
 the drone was to locate 2 markers and fly between them
